@@ -1,4 +1,4 @@
-# Advanced Sample Hardhat Project
+# Web3 Learning Group test project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
