@@ -1,4 +1,7 @@
-inspiration https://gist.github.com/pvinis/204289a5c4e56721be522a9fafad7839
+inspiration:
+- https://gist.github.com/pvinis/204289a5c4e56721be522a9fafad7839
+- https://github.com/artsy/force/tree/hackathon-nft
+- https://github.com/artsy/force/pull/9190
 
 
 
