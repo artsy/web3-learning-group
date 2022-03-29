@@ -1,4 +1,10 @@
+inspiration https://gist.github.com/pvinis/204289a5c4e56721be522a9fafad7839
+
+
+
 # Web3 Learning Group test project
+
+
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
